@@ -1,6 +1,6 @@
 # News
 
-# GitHub Copilot Chat Interface
+# GitHub Copilot Chat Use-Interface on GitHub.com
 
 https://github.com/copilot
 
