@@ -1,5 +1,11 @@
 # News
 
+# GitHub Copilot Chat Interface
+
+https://github.com/copilot
+
+#
+
 https://github.com/github-copilot/workspace_waitlist_signup
 https://github.com/github-copilot/workspace_waitlist_signup
 https://github.com/github-copilot/workspace_waitlist_signup
