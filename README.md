@@ -1,5 +1,10 @@
 # News
 
+# GitHub on Azure
+
+<img width="1922" alt="image" src="https://github.com/user-attachments/assets/ec41ed22-6051-43d8-99d2-868112260f4c" />
+
+
 # GitHub Copilot Chat Use-Interface on GitHub.com
 
 https://github.com/copilot
