@@ -1,0 +1,14 @@
+# Authenticating with GitHub
+gh auth login
+
+# Cloning a Repository
+gh repo clone owner/repo
+
+# Creating a New Issue
+gh issue create --title "Issue title" --body "Issue description"
+
+# Creating a Pull Request
+gh pr create --title "Pull request title" --body "Pull request description" --base main --head feature-branch
+
+# Checking the Status of a Workflow
+gh run list
